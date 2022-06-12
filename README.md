@@ -3,7 +3,7 @@ Timed Copy
 
 ## Purpose
 
-Copy and verify files, and also let hard disks some time to perform their internal disk operations when dealing with huge files.  Also, the copy process can easily be paused or cancelled.  Files can be copied.  Files can moved using the **-del** parameter.  There's also the possibility to mirror two directories using the **-mir** parameter.
+Copy and verify files, and also let hard disks some time to perform their internal disk operations when dealing with huge files.  Also, the copy process can easily be paused or cancelled.  Files can be copied.  Files can be moved using the **-del** parameter.  There's also the possibility to mirror two directories using the **-mir** parameter.
 
 Accepted keyboard keys are:
 - ESC, Q : Quit the copy process
